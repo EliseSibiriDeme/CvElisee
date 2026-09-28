@@ -61,9 +61,9 @@
 
   <section class="contact">
     <h2>Contact</h2>
-    <p>Email : elise@example.com</p>
-    <p>Téléphone : +226 77 70 51 28</p>
-    <p>Instagram : @gshopland</p>
+    <p>Email : elisesibirideme@gmail.com</p>
+    <p>Téléphone : +226 77 70 51 28
+    </p>Instagram : @gshopland</p>
   </section>
 
   <footer>
